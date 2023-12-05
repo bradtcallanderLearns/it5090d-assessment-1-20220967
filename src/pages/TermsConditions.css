@@ -1,0 +1,23 @@
+.terms-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.terms-container h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.terms-container h2 {
+  font-size: 18.5px;
+  margin-bottom: 10px;
+}
+
+.terms-container p {
+  margin-bottom: 30px;
+}

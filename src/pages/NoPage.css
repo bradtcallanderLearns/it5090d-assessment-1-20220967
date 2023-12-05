@@ -1,0 +1,18 @@
+.no-page-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.no-page-container h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.no-page-container p {
+  text-align: center;
+}

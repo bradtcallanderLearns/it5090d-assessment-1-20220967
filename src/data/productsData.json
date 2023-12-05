@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Dragon Ball Water-Proof Backpack",
+    "price": 39.99,
+    "category": "accessories",
+    "image": "https://d3fa68hw0m2vcc.cloudfront.net/81a/307474952.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Dragon Ball Goku Hoodie (Black) Size S/M/L/XL",
+    "price": 59.99,
+    "category": "clothing",
+    "image": "https://dragonball.store/wp-content/uploads/2022/09/bioworld-hoodies-outerwear-dragon-ball-super-super-hero-goku-line-art-hoodie-crunchyroll-exclusive-31265710604332_360x.webp"
+  },
+  {
+    "id": 3,
+    "name": "Dragon Ball Trading Cards (Box Set)",
+    "price": 89.99,
+    "category": "tradingCards",
+    "image": "https://tcgcollectornz.com/cdn/shop/products/dbs11_dpbox_dummy_900x_6151219c-4d2c-41c0-8db4-c30db8b7f011_1000x1000.png?v=1634967260"
+  },
+  {
+    "id": 4,
+    "name": "Dragon Ball Wall Scroll Poster - Rose Goku",
+    "price": 34.99,
+    "category": "decorations",
+    "image": "https://static.wixstatic.com/media/d360fd_83a5c3562e3c4520912a03cb3ac52b5a~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,enc_auto/d360fd_83a5c3562e3c4520912a03cb3ac52b5a~mv2.png"
+  },
+  {
+    "id": 5,
+    "name": "Dragon Ball Wall Scroll Poster - Legendary Broly",
+    "price": 34.99,
+    "category": "decorations",
+    "image": "https://static.wixstatic.com/media/d360fd_40857a79bfd44b28a84aaa659e08f090~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,enc_auto/d360fd_40857a79bfd44b28a84aaa659e08f090~mv2.png"
+  },
+  {
+    "id": 6,
+    "name": "Dragon Ball Wall Scroll Poster - Super Vegito",
+    "price": 34.99,
+    "category": "decorations",
+    "image": "https://static.wixstatic.com/media/d360fd_d8c2d3de80594683be136cd465867e5b~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,enc_auto/d360fd_d8c2d3de80594683be136cd465867e5b~mv2.png"
+  },
+  {
+    "id": 7,
+    "name": "Dragon Ball Logo Hoodie (Purple) Size S/M/L/XL",
+    "price": 59.99,
+    "category": "clothing",
+    "image": "https://cfw.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoiZHJhZ29uYmFsbC5zdG9yZSIsInYiOjI1MDQxNzgxMDMsImkiOiJhY2UxOGNhYi02ZTkwLTQwZTQtYjU4OS1iNzdmNmJkNWZmMDAifQ/wp-content/uploads/2022/11/il_fullxfull.3366475426_atug.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dragon Ball Logo Hoodie (Orange) Size S/M/L/XL",
+    "price": 59.99,
+    "category": "clothing",
+    "image": "https://dragonball.store/wp-content/uploads/2022/11/son-goku-dragon-ball-double-sided_1647861161.jpg"
+  },
+  {
+    "id": 9,
+    "name": "FUNKO POP Collectible Figure - Goku SSJ",
+    "price": 25,
+    "category": "collectibles",
+    "image": "https://www.animehouse.co.nz/cdn/shop/products/1_900x_30cf1cfa-e6e9-45ec-9bc7-72e1b6013af6_1024x1024.jpg?v=1613688363"
+  },
+  {
+    "id": 10,
+    "name": "Dragon Ball Z Fighters T-Shirt (Black)",
+    "price": 34.99,
+    "category": "clothing",
+    "image": "https://img.fruugo.com/product/3/06/636084063_max.jpg"
+  },
+  {
+    "id": 11,
+    "name": "FUNKO POP Collectible Figure - Future Trunks",
+    "price": 25,
+    "category": "collectibles",
+    "image": "https://www.animehouse.co.nz/cdn/shop/products/11273334-2976632800885475_960x960.jpg?v=1620256758"
+  },
+  {
+    "id": 12,
+    "name": "FUNKO POP Collectible Figure - Goku MUI",
+    "price": 25,
+    "category": "collectibles",
+    "image": "https://www.animehouse.co.nz/cdn/shop/products/11721344-6304658742012915_500x500.jpg?v=1605760020"
+  }
+]
